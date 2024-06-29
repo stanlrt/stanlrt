@@ -34,7 +34,7 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
-    <a href="https://www.docs.solidjs.com/" target="_blank" rel="noreferrer">
+    <a href="https://docs.solidjs.com/" target="_blank" rel="noreferrer">
         <img src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" alt="svelte" width="40" height="40"/>
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
