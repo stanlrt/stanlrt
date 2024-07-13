@@ -37,9 +37,6 @@
     <a href="https://docs.solidjs.com/" target="_blank" rel="noreferrer">
         <img src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" alt="svelte" width="40" height="40"/>
     </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
 </p>
 
 <h3 align="left">Tools:</h3>
