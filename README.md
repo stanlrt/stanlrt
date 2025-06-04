@@ -56,6 +56,9 @@
     <a href="https://turbo.build/" target="_blank" rel="noreferrer">
         <img src="https://github.com/bestofjs/bestofjs/blob/eb151f8eae67ee98fe070cd65284d11ccecaa20c/apps/bestofjs-nextjs/public/logos/turborepo.svg" alt="turborepo" width="40" height="40"/>
     </a>
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="github actions" width="40" height="40"/>
+    </a>
 </p>
 
 
