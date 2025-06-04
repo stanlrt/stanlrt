@@ -50,6 +50,7 @@
     <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
     </a>
+    ⠀⠀
     <a href="https://www.vercel.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
     </a>
