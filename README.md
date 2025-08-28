@@ -62,6 +62,15 @@
     </a>
 </p>
 
+<h3 align="left">Other interests:</h3>
+<ul>
+    <li>Design systems</li>
+    <li>DevOps, CI/CD</li>
+    <li>LLMs</li>
+    <li>Voice UIs</li>
+    <li>Codebase architecture</li>
+</ul>
+
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stanlrt&show_icons=true&locale=en&layout=compact" alt="stanlrt" /></p> 
