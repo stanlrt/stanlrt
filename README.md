@@ -65,10 +65,10 @@
 <h3 align="left">Other interests:</h3>
 <ul>
     <li>Design systems</li>
-    <li>DevOps, CI/CD</li>
-    <li>LLMs</li>
-    <li>Voice UIs</li>
-    <li>Codebase architecture</li>
+    <li>DevOps & CI/CD</li>
+    <li>ML</li>
+    <li>GenUI</li>
+    <li>Software architecture & engineering</li>
 </ul>
 
 
